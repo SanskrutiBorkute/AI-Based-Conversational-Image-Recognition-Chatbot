@@ -6,7 +6,7 @@ Sanskruti Borkute
 ---
 
 ### Affiliation
-Suryodaya college / Rtmnu
+Computer Engineering
 ---
 
 **Date:** 27/03/2026
