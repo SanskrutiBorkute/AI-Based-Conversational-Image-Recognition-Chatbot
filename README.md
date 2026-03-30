@@ -1,13 +1,17 @@
 # Project Title
-# 🛡️ AI-Based Conversational Image Recognition Chatbot
+#  AI-Based Conversational Image Recognition Chatbot
 
-**Author(s):** Sanskruti Borkute
-**Affiliation:** Suryodaya college / Rtmnu
+###Author
+Sanskruti Borkute
+
+Affiliation
+Suryodaya college / Rtmnu
+
 **Date:** 27/03/2026
 
 ---
 
-## 📄 Abstract
+##  Abstract
 
 - This project is about building a smart chatbot that can understand images and talk to users. The system allows users to upload an image and ask questions about it. The chatbot uses Artificial Intelligence to recognize objects in the image and give answers in simple language.
 The system combines image recognition and chatbot technology. It helps users interact with machines in a more natural way. The results show that the chatbot can correctly identify objects and respond to questions effectively.
@@ -35,18 +39,15 @@ This project improves existing systems by making them simple and interactive.
 ## 4. Implementation
 
 Programming Languages:
-
 Python
 
 Frameworks/Libraries:
-
 TensorFlow / PyTorch
 OpenCV
 NLTK / spaCy
 Flask
 
 Tools Used:
-
 - VS Code
 - Google Colab
 - GitHub
@@ -81,6 +82,6 @@ This project successfully creates a chatbot that can understand images and talk 
 
 ## References
 
-[1] "ImageNet Classification with Deep Learning," 2012
-[2] NLP and Chatbot Research Papers
-[3] https://tensorflow.org
+- [1] "ImageNet Classification with Deep Learning," 2012
+- [2] NLP and Chatbot Research Papers
+- [3] https://tensorflow.org
