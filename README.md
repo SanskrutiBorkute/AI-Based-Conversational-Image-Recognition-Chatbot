@@ -9,15 +9,13 @@
 
 ## 📄 Abstract
 
-This project is about building a smart chatbot that can understand images and talk to users. The system allows users to upload an image and ask questions about it. The chatbot uses Artificial Intelligence to recognize objects in the image and give answers in simple language.
-
+- This project is about building a smart chatbot that can understand images and talk to users. The system allows users to upload an image and ask questions about it. The chatbot uses Artificial Intelligence to recognize objects in the image and give answers in simple language.
 The system combines image recognition and chatbot technology. It helps users interact with machines in a more natural way. The results show that the chatbot can correctly identify objects and respond to questions effectively.
 ---
 
 ## 1. Introduction
 
-Most chatbots today only understand text, and image recognition systems cannot communicate with users. This project combines both features into one system.
-
+- Most chatbots today only understand text, and image recognition systems cannot communicate with users. This project combines both features into one system.
 The main aim is to build a chatbot that can “see” images and “talk” about them. This can be useful in education, smart assistants, and helping visually impaired people.
 ---
 
@@ -31,7 +29,7 @@ This project improves existing systems by making them simple and interactive.
 
 ## 3. Methodology
 
-The user uploads an image, and the system processes it using a deep learning model to detect objects. Then, the chatbot understands the user’s question using NLP. Based on the image and the question, the system generates a meaningful response.
+- The user uploads an image, and the system processes it using a deep learning model to detect objects. Then, the chatbot understands the user’s question using NLP. Based on the image and the question, the system generates a meaningful response.
 ---
 
 ## 4. Implementation
@@ -49,9 +47,9 @@ Flask
 
 Tools Used:
 
-VS Code
-Google Colab
-GitHub
+- VS Code
+- Google Colab
+- GitHub
 ---
 
 ## 5. Results and Discussion
