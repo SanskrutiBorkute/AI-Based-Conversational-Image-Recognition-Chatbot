@@ -11,14 +11,14 @@
 
 This project is about creating a smart chatbot that can understand images and talk to users. The system allows users to upload an image and ask questions about it. The chatbot uses Artificial Intelligence to recognize objects in the image and answer the user in simple language.
 
-The project combines image recognition and chatbot technology. It helps in making communication with machines more natural and interactive. The results show that the system can correctly identify objects and respond to user queries effectively.
+- The project combines image recognition and chatbot technology. It helps in making communication with machines more natural and interactive. The results show that the system can correctly identify objects and respond to user queries effectively.
 ---
 
 ## 1. Introduction
 
 Nowadays, most chatbots can only understand text, and image recognition systems cannot communicate properly. This project combines both features into one system.
 
-The main goal is to build a chatbot that can “see” images and “talk” about them. This can be useful in education, helping visually impaired people, and smart assistant systems.
+- The main goal is to build a chatbot that can “see” images and “talk” about them. This can be useful in education, helping visually impaired people, and smart assistant systems.
 ---
 
 ## 2. Literature Review
@@ -27,7 +27,7 @@ The main goal is to build a chatbot that can “see” images and “talk” abo
 - Chatbots use NLP (Natural Language Processing) to understand and reply to users.
 - Some systems combine both, but they are not very interactive or simple.
 
-This project improves these systems by making them easy to use and more interactive.
+- This project improves these systems by making them easy to use and more interactive.
 ---
 
 ## 3. Methodology
