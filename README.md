@@ -6,7 +6,7 @@ Sanskruti Borkute
 ---
 
 ### Affiliation
-Computer Engineering
+Suryodaya College Of Engineering
 ---
 
 **Date:** 27/03/2026
